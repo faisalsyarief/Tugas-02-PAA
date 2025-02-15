@@ -1,2 +1,2 @@
-# Tugas-02-PAA
-Matrikulasi Perancangan dan Analisis Algoritma
+# Matrikulasi Perancangan dan Analisis Algoritma
+## Tugas-02 Materi Algoritma
